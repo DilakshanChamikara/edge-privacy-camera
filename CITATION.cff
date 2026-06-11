@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software or refer to this project, please cite it as below."
+title: "Edge Privacy Camera"
+authors:
+  - family-names: "Welivita Vithanalage"
+    given-names: "Dilakshan Chamikara Perera"
+institution: "Stockholm University"
+year: 2026
+type: software
+license: Apache-2.0
+repository-code: "https://github.com/DilakshanChamikara/edge-privacy-camera.git"
+
+preferred-citation:
+  type: thesis
+  title: "Designing Privacy-Preserving Home Security Camera System for Shared Living Spaces: A Human-Centered Study of Real-Time Face Blurring and Everyday Privacy"
+  authors:
+    - family-names: "Welivita Vithanalage"
+      given-names: "Dilakshan Chamikara Perera"
+  institution:
+    name: "Stockholm University"
+  year: 2026
