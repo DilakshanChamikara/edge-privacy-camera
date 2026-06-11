@@ -498,16 +498,16 @@ Year: 2026
 
 ---
 
-## Suggested Citation
+## Citation
 
 If you use or refer to this project in academic work, please cite it as:
 
 ```bibtex
-@mastersthesis{perera2026privacycamera,
-  title  = {Designing Privacy-Preserving Home Security Camera System for Shared Living Spaces: A Human-Centered Study of Real-Time Face Blurring and Everyday Privacy},
-  author = {Dilakshan Chamikara Perera, Welivita Vithanalage},
-  school = {Stockholm University},
-  year   = {2026}
+@misc{Welivita_Vithanalage_Designing_Privacy-Preserving_Home_2026,
+  author = {Welivita Vithanalage, Dilakshan Chamikara Perera},
+  title = {{Designing Privacy-Preserving Home Security Camera System for Shared Living Spaces: A Human-Centered Study of Real-Time Face Blurring and Everyday Privacy}},
+  year = {2026},
+  url = {https://github.com/DilakshanChamikara/edge-privacy-camera}
 }
 ```
 
