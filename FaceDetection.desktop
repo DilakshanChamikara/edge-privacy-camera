@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=Face Detection Security Camera
+Name=EDGE PRIVACY CAMERA
 Comment=Privacy-Preserving Home Security Camera
-Exec=bash /home/raspberrypi/faceDetection/run.sh
+Exec=bash /home/raspberrypi/edge-privacy-camera/run.sh
 Icon=camera-video
 Terminal=false
 Type=Application
