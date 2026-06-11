@@ -491,9 +491,9 @@ This project is part of the Master's thesis:
 
 **Designing Privacy-Preserving Home Security Camera System for Shared Living Spaces: A Human-Centered Study of Real-Time Face Blurring and Everyday Privacy**
 
-Author: Dilakshan Chamikara Perera, Welivita Vithanalage
-Institution: Stockholm University
-Field: Human-Computer Interaction and Human-Centred Cybersecurity
+Author: Dilakshan Chamikara Perera, Welivita Vithanalage<br>
+Institution: Stockholm University<br>
+Field: Human-Computer Interaction and Human-Centred Cybersecurity<br>
 Year: 2026
 
 ---
